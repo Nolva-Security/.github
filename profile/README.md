@@ -1,7 +1,7 @@
 # NOLVA Security
 
 <p align="center">
-  <img src="./profile/nolva-logo.jpeg" alt="NOLVA Security Logo" width="200"/>
+  <img src="./nolva-logo.jpeg" alt="NOLVA Security Logo" width="200"/>
 </p>
 
 <h3 align="center">Cybersecurity Solutions & Research</h3>
