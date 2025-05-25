@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://s14.gifyu.com/images/bscsQ.png" alt="Nolva Security Banner" width="800"/>
+  <img src="https://u.cubeupload.com/hackpaper/jgdTXO.png" alt="Nolva Security Banner" width="800"/>
 </div>
 
 <div align="center">
